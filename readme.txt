@@ -1,5 +1,5 @@
 Domestic Tourism Statistics from
-ttps://www.mots.go.th/more_news.php?cid=509&filename=index
+https://www.mots.go.th/more_news.php?cid=509&filename=index
 
 Thailand boundaries and province shape from
 https://data.humdata.org/dataset/thailand-administrative-boundaries
